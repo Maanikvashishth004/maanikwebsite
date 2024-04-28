@@ -1,0 +1,78 @@
+.searchbar {
+  background-color: transparent;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.searchbtn {
+  background-color: rgb(246, 246, 244);
+  width: 700px;
+  height: 30px;
+  padding-left: 40px;
+}
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.firsticon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.endnavicon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.seaicon {
+  position: relative;
+  left: 33px;
+}
+.firstthree {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.secondsix {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+.sidehead {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+  margin-left: 10px;
+}
+.lastsix {
+  display: flex;
+  gap: 10px;
+  flex-direction: column;
+}
+body {
+  font-family: "Poppins", sans-serif;
+}
+.split {
+  display: flex;
+}
+.rec {
+  width: 100%;
+  padding-left: 130px;
+}
+.video1 {
+  display: flex;
+  justify-content: space-around;
+}
+.content {
+  display: flex;
+  flex-direction: column;
+}
+.thumb {
+  display: flex;
+  gap: 10px;
+  margin-top: 10px;
+}
